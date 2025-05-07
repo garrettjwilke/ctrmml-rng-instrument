@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PROGRAM_NAME="mml-rng-instrument"
+PROGRAM_NAME="ctrmml-rng-instrument"
 
 if [ -d target ]
 then

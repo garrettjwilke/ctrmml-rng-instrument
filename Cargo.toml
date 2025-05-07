@@ -1,5 +1,5 @@
 [package]
-name = "mml-rng-instrument"
+name = "ctrmml-rng-instrument"
 version = "0.1.0"
 edition = "2021"
 
